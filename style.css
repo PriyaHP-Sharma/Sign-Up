@@ -11,7 +11,7 @@
 
 body {
     font-family: "Poppins", sans-serif;
-    background: url("images/bg-intro-mobile.png") no-repeat;
+    background: url("bg-intro-mobile.png") no-repeat;
     background-size: cover;
     padding: 0;
     margin: 0;
@@ -137,7 +137,7 @@ form a {
 }
 
 .error {
-    background: url("images/icon-error.svg") no-repeat;
+    background: url("icon-error.svg") no-repeat;
     background-position: 95% center;
     background-size: 1.5rem 1.5rem;
 }
