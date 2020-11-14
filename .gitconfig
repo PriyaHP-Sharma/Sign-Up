@@ -1,0 +1,10 @@
+[user]
+	name = Priya HP
+	email = priyahp2014@gmail.com
+[core]
+	editor = code --wait
+	autocrlf = true
+[diff]
+	tool = vscode
+[difftool "vscode"]
+	cmd = "code --wait --diff  $LOCAL $REMOTE"
